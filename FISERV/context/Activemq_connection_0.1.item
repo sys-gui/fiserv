@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_WCtKYK6uEfCWBJJu6EpI4g" confirmationNeeded="false" hide="false" name="DEV">
+    <contextParameter xmi:id="_WCtKYa6uEfCWBJJu6EpI4g" comment="" name="Activemq_host" prompt="Activemq_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="10.150.71.110"/>
+    <contextParameter xmi:id="_WCtKYq6uEfCWBJJu6EpI4g" comment="" name="Activemq_port" prompt="Activemq_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="61616"/>
+    <contextParameter xmi:id="_WCtKY66uEfCWBJJu6EpI4g" comment="" name="Activemq_username" prompt="Activemq_username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="admin"/>
+    <contextParameter xmi:id="_WCtKZK6uEfCWBJJu6EpI4g" comment="" name="Activemq_password" prompt="Activemq_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:vGfGlYWkLWT0qKBkwKvCwCZMQCxK0+vnX8eBToKKXwot"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_WCtKZa6uEfCWBJJu6EpI4g" confirmationNeeded="false" hide="false" name="PRD">
+    <contextParameter xmi:id="_WCtKZq6uEfCWBJJu6EpI4g" comment="" name="Activemq_host" prompt="Activemq_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="10.150.71.110"/>
+    <contextParameter xmi:id="_WCtKZ66uEfCWBJJu6EpI4g" comment="" name="Activemq_port" prompt="Activemq_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="61616"/>
+    <contextParameter xmi:id="_WCtKaK6uEfCWBJJu6EpI4g" comment="" name="Activemq_username" prompt="Activemq_username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="admin"/>
+    <contextParameter xmi:id="_WCtKaa6uEfCWBJJu6EpI4g" comment="" name="Activemq_password" prompt="Activemq_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:W2f9Xd4LmbHC4vrnPExmyvPdZP8EJBCyAA13f00J4Kph"/>
+  </talendfile:ContextType>
+</xmi:XMI>
